@@ -18,7 +18,7 @@ Implemented an information retrieval system optimized for fast and accurate info
 - Python
 
 ### Database
-- SQL-lite
+- SQLite
 
 ### Tools
 - Git & GitHub
