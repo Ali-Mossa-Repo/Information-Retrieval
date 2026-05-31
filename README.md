@@ -1,4 +1,4 @@
-# Information Retrieve
+# Information Retrieval
 
 Implemented an information retrieval system optimized for fast and accurate information search and retrieval
 
